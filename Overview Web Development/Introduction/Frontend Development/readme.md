@@ -28,9 +28,9 @@ A Front-End Developer is someone who creates websites and web applications. The 
 </body>
 </html>
 
-```
-  
+```  
 <br/>
+
 # CSS (Cascading Style Sheets):-
   Cascading Style Sheets fondly referred to as CSS is a simply designed language intended to simplify the process of making web pages 
   presentable. It is used to style our website.
@@ -48,6 +48,7 @@ A Front-End Developer is someone who creates websites and web applications. The 
 ```
   
  <br/>
+ 
 # JavaScript:-
   JavaScript is a scripting language used to provide a dynamic behavior to our website.
 
