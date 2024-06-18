@@ -8,4 +8,5 @@ Backend development is the creation and maintenance of the server side of a web 
   <li>Java</li>
   <li>Php</li>
 </ul>
-Backend Developer handling tasks such as server management, database interactions, and security measures. 
+<br/>
+Backend Developer handling tasks such as server management, database interactions, and security measures. They enable communication between the front-end and back-end, ensuring the overall performance and functionality of the web application. A Back-End developer handles servers, databases, and APIs. In short, one who stores and organizes data communicates with the UI (Front-End) and performs server-side management. 
