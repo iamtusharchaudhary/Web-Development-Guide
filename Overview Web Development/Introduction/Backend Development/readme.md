@@ -10,3 +10,9 @@ Backend development is the creation and maintenance of the server side of a web 
 </ul>
 <br/>
 Backend Developer handling tasks such as server management, database interactions, and security measures. They enable communication between the front-end and back-end, ensuring the overall performance and functionality of the web application. A Back-End developer handles servers, databases, and APIs. In short, one who stores and organizes data communicates with the UI (Front-End) and performs server-side management. 
+
+# APIs , Server and Middleware
+**Server Management**: Knowledge of how to configure, manage, and deploy servers is crucial. This includes understanding web servers like Apache, Nginx, and cloud-based solutions.
+
+RESTful APIs and GraphQL: Creating and consuming APIs is a significant part of backend development. REST and GraphQL are popular methodologies for designing web APIs for applications to communicate with the server.
+Middleware: Middleware functions to handle requests and responses within your application’s request-response cycle. Understanding middleware is key for tasks like authentication, data processing, and routing.
