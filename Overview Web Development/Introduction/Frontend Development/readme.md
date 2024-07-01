@@ -27,3 +27,6 @@ MERN stack: JavaScript - MongoDB - Express - React.js - Node.js
 MEVN stack: JavaScript - MongoDB - Express - Vue.js - Node.js
 
 ```
+
+# Conclusion:-
+A frontend developer makes the website engaging using their skills with technology. Hence, it’s very important to know how to become a frontend developer. The above-mentioned points should be thoroughly followed to become a frontend developer. A frontend developer is one who builds the client side of the application. His/her responsibility is to build a website that has an engaging view. A frontend developer must focus on design, technology, and programming to build an efficient application. 
